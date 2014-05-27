@@ -1,0 +1,18 @@
+$EXEC 
+P{ascal}$M+ 
+Sample{no list file} 
+{default output file}
+L{ink}?
++X
+{no more options}SampleObj/QuickDrawObj/OSTrapsObj/ToolTrapsObj/PrLink { OPTIONAL }
+Obj/SANELibAsm { OPTIONAL }
+Obj/PackTraps { OPTIONAL }
+Obj/PasInitObj/PasLib 
+Obj/PasLibAsm 
+Obj/RTLib{end of input files}
+{listing to console}
+SampleL 
+R{un}RMakerSampleRR{un}MacComF{inder info}Y{es}L{isa->Mac}Sample.Rsrc 
+SampAPPLSAMP{no bundle bit} 
+E{ject}Q{uit} 
+$ENDEXEC

@@ -1,0 +1,29 @@
+Sample.rsrc
+
+Type WIND
+	,128
+	Sample
+	50 40 300 450
+	Visible GoAway
+	0
+	0
+
+Type MENU
+	,128
+	\14
+
+	,129
+	File
+		Quit/Q
+
+	,130
+	Edit
+		Undo/Z
+		(-
+		Cut/X
+		Copy/C
+		Paste/V
+		Clear
+
+Type CODE
+	SampleL,0
